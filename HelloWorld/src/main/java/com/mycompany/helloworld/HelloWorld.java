@@ -1,5 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+/**
+ *@author Cami Anderson
+ *email: camidantas@icloud.com
+ *date: 05/09/2023
+ *purpose: My first Hello World program in an IDE
  */
 
 package com.mycompany.helloworld;
